@@ -10,6 +10,9 @@
   "model_implementations": {
     "stan": {
       "model_code": "models/stan/diamonds.stan"
+    },
+    "jax": {
+      "model_code": "models/jax/diamonds.py"
     }
   },
   "references": "bales2019selecting",
